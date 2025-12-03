@@ -1,6 +1,9 @@
-fastapi
-uvicorn
-python-multipart
 easyocr
-opencv-python-headless
+opencv-python
+PyQt5
 numpy
+torch
+torchvision
+torchaudio
+Pillow
+scipy
